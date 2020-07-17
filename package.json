@@ -1,5 +1,6 @@
 {
   "name": "site-flor-maravilha",
+  "description": "Site desenvolvido para a loja Flor Maravilha",
   "version": "0.1.0",
   "private": true,
   "scripts": {
